@@ -5,7 +5,6 @@ assignment on WDBC open source dataset
 Predicting whether a diagnosed breast cancer tumor cell is malignant or benign based on Wisconsin dataset from UCI repository.
 
 ## To achieve this goal, the following steps are identified: 
-
 • Familiarize with the data by looking at its shape, the relations between variables and their possible correlations. 
 • Preprocess data 
 • Split the data into testing and training samples 
@@ -17,7 +16,6 @@ Predicting whether a diagnosed breast cancer tumor cell is malignant or benign b
 
 
 ## Libraries used
-
 import warnings
 import pandas as pd
 import numpy as np
