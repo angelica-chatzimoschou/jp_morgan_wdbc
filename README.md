@@ -9,11 +9,11 @@ Predicting whether a diagnosed breast cancer tumor cell is malignant or benign b
 • Familiarize with the data by looking at its shape, the relations between variables and their possible correlations. 
 • Preprocess data 
 • Split the data into testing and training samples 
-• Implement various classifiers (K-Nearest Neighbors, Losgistic Regression, Lasso Logistic Regression and Random Forest) to predict the data  
-  via 10-fold Cross-Validation 
+• Implement various classifiers (K-Nearest Neighbors, Losgistic Regression, Lasso Logistic Regression and Random Forest) 
+  to predict the data via 10-fold Cross-Validation 
 • Compare the best identified classifier with evaluation metric: Accuracy, as this is the one initially reported in the data description 
   file
-• Write conclusions
+• Write conclusions and Future Steps
 ```
 ## Language used: 
 Python 3
