@@ -15,8 +15,10 @@ Predicting whether a diagnosed breast cancer tumor cell is malignant or benign b
   file
 • Write conclusions
 ```
+## Language used: 
+Python 3
 
-## Libraries used
+## Libraries used:
 ```
 import warnings
 import pandas as pd
