@@ -1,10 +1,11 @@
 # jp_morgan_wdbc
 assignment on WDBC open source dataset
 
-Project Overview
+## Project Overview
 Predicting whether a diagnosed breast cancer tumor cell is malignant or benign based on Wisconsin dataset from UCI repository.
 
-To achieve this goal, the following steps are identified: 
+## To achieve this goal, the following steps are identified: 
+
 • Familiarize with the data by looking at its shape, the relations between variables and their possible correlations. 
 • Preprocess data 
 • Split the data into testing and training samples 
@@ -15,7 +16,8 @@ To achieve this goal, the following steps are identified:
 • Write conclusions
 
 
-Libraries used
+## Libraries used
+
 import warnings
 import pandas as pd
 import numpy as np
